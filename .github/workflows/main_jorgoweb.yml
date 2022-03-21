@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'jorgoweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E5B0C4B99764E259A1608ADD1C9A072 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D6BA5D6C0984F39B90BC18D08C97BEE }}
           package: .
